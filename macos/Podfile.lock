@@ -1,0 +1,90 @@
+PODS:
+  - flutter_libserialport (0.0.1):
+    - FlutterMacOS
+    - libserialport
+  - flutter_usb_event (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - hid_desk (0.0.1):
+    - FlutterMacOS
+    - hidapi (= 0.14.0)
+  - hidapi (0.14.0)
+  - libserialport (0.1.1)
+  - package_info_plus (0.0.1):
+    - FlutterMacOS
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - share_plus (0.0.1):
+    - FlutterMacOS
+  - url_launcher_macos (0.0.1):
+    - FlutterMacOS
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - wakelock_plus (0.0.1):
+    - FlutterMacOS
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_libserialport (from `Flutter/ephemeral/.symlinks/plugins/flutter_libserialport/macos`)
+  - flutter_usb_event (from `Flutter/ephemeral/.symlinks/plugins/flutter_usb_event/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - hid_desk (from `Flutter/ephemeral/.symlinks/plugins/hid_desk/macos`)
+  - package_info_plus (from `Flutter/ephemeral/.symlinks/plugins/package_info_plus/macos`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+  - share_plus (from `Flutter/ephemeral/.symlinks/plugins/share_plus/macos`)
+  - url_launcher_macos (from `Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos`)
+  - video_player_avfoundation (from `Flutter/ephemeral/.symlinks/plugins/video_player_avfoundation/darwin`)
+  - wakelock_plus (from `Flutter/ephemeral/.symlinks/plugins/wakelock_plus/macos`)
+  - webview_flutter_wkwebview (from `Flutter/ephemeral/.symlinks/plugins/webview_flutter_wkwebview/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - hidapi
+    - libserialport
+
+EXTERNAL SOURCES:
+  flutter_libserialport:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_libserialport/macos
+  flutter_usb_event:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_usb_event/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  hid_desk:
+    :path: Flutter/ephemeral/.symlinks/plugins/hid_desk/macos
+  package_info_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/package_info_plus/macos
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+  share_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/share_plus/macos
+  url_launcher_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos
+  video_player_avfoundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/video_player_avfoundation/darwin
+  wakelock_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/wakelock_plus/macos
+  webview_flutter_wkwebview:
+    :path: Flutter/ephemeral/.symlinks/plugins/webview_flutter_wkwebview/darwin
+
+SPEC CHECKSUMS:
+  flutter_libserialport: d1a505fd4b05785f7b50cc7c93b361937ea1c5bd
+  flutter_usb_event: 14c68fddc354e71691498e7b24b307ba486d3605
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  hid_desk: d443df204cc08d221005eb94701a597e9827a862
+  hidapi: 1cc8c92452fbc69bb97e927a63d0d65a8bd5f797
+  libserialport: 1cb25e66ef3c92a8e59c2ea3820302c3fa2268cd
+  package_info_plus: fa739dd842b393193c5ca93c26798dff6e3d0e0c
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  share_plus: 36537c04ce0c3e3f5bd297ce4318b6d5ee5fd6cf
+  url_launcher_macos: 5f437abeda8c85500ceb03f5c1938a8c5a705399
+  video_player_avfoundation: 7c6c11d8470e1675df7397027218274b6d2360b3
+  wakelock_plus: 4783562c9a43d209c458cb9b30692134af456269
+  webview_flutter_wkwebview: 0982481e3d9c78fd5c6f62a002fcd24fc791f1e4
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.12.0
